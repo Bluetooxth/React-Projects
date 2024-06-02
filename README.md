@@ -1,2 +1,2 @@
 # React-Projects
-React Projects For Beginners
+React Projects
