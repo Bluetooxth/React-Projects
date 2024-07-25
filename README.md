@@ -4,6 +4,8 @@ This repository contains reactjs projects based on levels Beginner Intermediate 
 
 Beginner containing beginner friendly projects easy to understand and code
 
+**In beginner i have focused on logic instead of better look**
+
 Beginner containing following projects
 
     - BMI Caculator App
